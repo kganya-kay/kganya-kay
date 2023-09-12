@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kganya-kay
 - 👀 I’m interested in javascript frameworks, node and other javascript frontend libraries
-- 🌱 I’m currently learning more about nfts
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning more about React Native
+- 💞️ I’m looking to collaborate on ISP and web development projects
 - 📫 How to reach me , @ kganyakekana@gmail.com
 
 <!---
