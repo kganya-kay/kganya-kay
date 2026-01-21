@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kganya-kay
-- 👀 I’m interested in javascript frameworks, node and other javascript frontend libraries
-- 🌱 I’m currently learning more about React Native
-- 💞️ I’m looking to collaborate on ISP and web development projects
+- 👀 I’m interested in TypeScript, Salesforce, node and other javascript frontend libraries
+- 🌱 I’m currently working as a Salesforce Developer
+- 💞️ I’m looking to collaborate on enterprise Salesforce and Fullstack Projects
 - 📫 How to reach me , @ kganyakekana@gmail.com
 
 <!---
